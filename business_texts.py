@@ -163,5 +163,297 @@ business_texts = [
     Glow Haven Skincare offers natural, science-backed products that enhance your skin's radiance. 
     Our range of cleansers, serums, and moisturizers is crafted with organic ingredients 
     to nourish and rejuvenate. Discover the Glow Haven difference and unlock your skin's full potential.
+    """,
+        """
+    Amplify your creativity with Artisan Studio Supplies. From premium paints to handcrafted brushes, 
+    our curated selection of art materials is designed to inspire artists at every level. 
+    Explore our unique collection and bring your artistic vision to life with Artisan Studio Supplies.
+    """,
     """
+    At FreshFields Market, we bring farm-to-table freshness to your doorstep. 
+    Our selection of organic produce, dairy, and pantry staples is carefully sourced from local farms. 
+    Experience the joy of healthy, wholesome meals with FreshFields Market.
+    """,
+    """
+    Ignite your imagination with NovaTech Robotics. We design cutting-edge robots and AI systems 
+    for education, research, and entertainment. Whether you're exploring robotics as a hobby or pushing 
+    the boundaries of technology, NovaTech Robotics delivers innovative solutions for your needs.
+    """,
+    """
+    Experience the power of holistic healing with PureBalance Therapy. 
+    Our services include massage, acupuncture, and naturopathy, all designed to help you achieve 
+    physical and emotional well-being. Trust PureBalance Therapy to guide you on your wellness journey.
+    """,
+    """
+    At EverBloom Landscaping, we transform outdoor spaces into stunning sanctuaries. 
+    From garden design to year-round maintenance, our team creates beautiful, sustainable landscapes 
+    tailored to your vision. Let EverBloom bring your dream outdoor space to life.
+    """,
+    """
+    Discover the future of mobility with SkyLink Autonomous Solutions. 
+    We specialize in self-driving vehicle technology and intelligent transportation systems 
+    that redefine convenience and safety. Join SkyLink and experience a smarter way to move.
+    """,
+    """
+    Unwind in style at Oceanview Escape Resorts. Our luxury accommodations feature breathtaking views, 
+    world-class amenities, and personalized service. Whether you're planning a romantic getaway 
+    or a family adventure, Oceanview Escape Resorts is your haven for relaxation and exploration.
+    """,
+    """
+    Optimize your business with Titan Logistics. From warehousing to last-mile delivery, 
+    our end-to-end supply chain solutions are designed to keep your operations running smoothly. 
+    Partner with Titan Logistics for reliable, efficient service you can count on.
+    """,
+    """
+    Achieve academic excellence with BrightFuture Tutoring. Our personalized learning plans 
+    and experienced tutors empower students to excel in subjects ranging from math and science 
+    to language and test preparation. Let BrightFuture Tutoring unlock your potential.
+    """,
+    """
+    Elevate your dining experience with Gourmet Spice Co. Our premium spices and seasonings 
+    are sourced from around the globe, delivering bold flavors to your kitchen. From exotic blends 
+    to everyday essentials, Gourmet Spice Co. brings the world of taste to your table.
+    """,
+    """
+    Transform your workspace with Elevate Office Interiors. We specialize in ergonomic furniture 
+    and modern design solutions that promote productivity and style. From collaborative spaces 
+    to executive offices, Elevate Office Interiors creates environments that inspire success.
+    """,
+    """
+    Explore the wonders of nature with TrailBlazer Outdoor Gear. Our durable and innovative products, 
+    including backpacks, tents, and hiking boots, are designed for adventurers who seek the ultimate 
+    outdoor experience. Blaze your own trail with TrailBlazer Outdoor Gear.
+    """,
+    """
+    Take your skills to the next level with CodeCraft Academy. Our immersive coding bootcamps and online courses 
+    teach you the latest in programming, web development, and software engineering. Whether you're starting a new career 
+    or expanding your expertise, CodeCraft Academy helps you build a future in tech.
+    """,
+    """
+    Discover the power of wellness with VitalBloom Supplements. Our science-backed vitamins and herbal blends 
+    are crafted to support your energy, focus, and overall health. Start your journey to a balanced life 
+    with VitalBloom Supplements.
+    """,
+    """
+    Step into luxury with Aurora Jewelers. Our exquisite collection of fine jewelry and custom designs 
+    adds elegance to every moment. From engagement rings to timeless watches, Aurora Jewelers celebrates 
+    life's special occasions with unmatched craftsmanship.
+    """,
+    """
+    Simplify your life with CleanSweep Home Services. We provide professional cleaning, organizing, and 
+    maintenance solutions tailored to your schedule. Trust CleanSweep to keep your home spotless and stress-free.
+    """,
+    """
+    Redefine your wardrobe with Essence Apparel Co. Our clothing combines timeless fashion with sustainable practices, 
+    offering a curated selection of pieces that suit every lifestyle. Dress with confidence and purpose with Essence Apparel Co.
+    """,
+    """
+    Experience the ultimate gaming performance with Zenith Gaming PCs. Built with cutting-edge hardware and 
+    precision engineering, our custom computers are designed for gamers who demand the best. Level up with Zenith Gaming PCs.
+    """,
+    """
+    Unlock a world of flavor with SpiceRoot Kitchen. Our gourmet meal kits and artisanal ingredients make 
+    cooking at home a delightful experience. Explore global cuisines and elevate your meals with SpiceRoot Kitchen.
+    """,
+    """
+    Bring your digital vision to life with Ignite Web Solutions. Our team specializes in website development, 
+    e-commerce platforms, and UX/UI design, delivering tailored solutions that drive results. Partner with Ignite Web Solutions 
+    to create a standout online presence.
+    """,
+    """
+    Protect your assets with IronWall Insurance Group. We offer customized coverage for home, auto, and business, 
+    ensuring peace of mind in every aspect of your life. Trust IronWall to safeguard what matters most.
+    """,
+    """
+    Build your future with Summit Construction Co. From residential homes to commercial developments, 
+    our experienced team delivers high-quality construction services on time and within budget. Trust Summit Construction Co. 
+    to bring your projects to life.
+    """,
+    """
+    Elevate your audio experience with SoundSphere Electronics. Our premium headphones, speakers, and soundbars 
+    deliver crystal-clear sound and immersive quality. Rediscover your favorite music with SoundSphere Electronics.
+    """,
+    """
+    Embrace sustainable living with EcoNest Housing Solutions. We design eco-friendly homes using renewable materials 
+    and energy-efficient systems that reduce your environmental footprint. Build your dream home with EcoNest.
+    """,
+    """
+    Power your business with TurboCharge Consulting. We provide expert advice in strategy, operations, and technology, 
+    helping companies optimize performance and achieve measurable results. Let TurboCharge Consulting drive your success.
+    """,
+    """
+    Step into the spotlight with Stellar Talent Agency. We represent artists, actors, and musicians, connecting them 
+    with opportunities to showcase their talent. At Stellar Talent Agency, your dreams take center stage.
+    """,
+    """
+    Revolutionize your workflow with EdgeTech Automation. Our innovative solutions in robotics and process optimization 
+    help businesses streamline operations and increase efficiency. Stay ahead of the curve with EdgeTech Automation.
+    """,
+    """
+    Treat yourself to indulgence with Velvet Cocoa. Our handcrafted chocolates and confections are made with 
+    premium ingredients and a passion for flavor. Experience decadence like never before with Velvet Cocoa.
+    """,
+    """
+    Inspire young minds with BrightSpark Educational Toys. Our collection of STEM-focused games and learning tools 
+    encourages creativity, problem-solving, and fun. BrightSpark Educational Toys: where learning meets play.
+    """,
+    """
+    Create unforgettable memories with Sapphire Photography Studio. From weddings to family portraits, our talented photographers 
+    capture moments that last a lifetime. Trust Sapphire Photography Studio to tell your story beautifully.
+    """,
+        """
+    Redefine your skincare routine with TrueGlow Naturals. Our plant-based products are crafted 
+    with clean, sustainable ingredients to enhance your skin's health and radiance. Discover 
+    the power of nature with TrueGlow Naturals.
+    """,
+    """
+    Explore the open road with AdventureMoto. We offer premium motorcycles, gear, and accessories 
+    for riders who crave thrilling journeys. From beginners to seasoned adventurers, AdventureMoto 
+    has everything you need to ride with confidence.
+    """,
+    """
+    Empower your workforce with Thrive HR Solutions. We provide tailored HR consulting, recruitment, 
+    and employee development programs that drive business success. Partner with Thrive HR Solutions 
+    to build a thriving workplace.
+    """,
+    """
+    Fuel your fitness journey with Peak Performance Nutrition. Our science-backed supplements, 
+    protein powders, and energy boosters help you train harder, recover faster, and achieve 
+    your goals. Trust Peak Performance Nutrition to keep you at your best.
+    """,
+    """
+    Reimagine your space with Luxe Designs. Our interior designers create sophisticated, 
+    personalized environments that reflect your style. From concept to completion, Luxe Designs 
+    transforms your vision into reality.
+    """,
+    """
+    Accelerate your business growth with Catalyst Marketing Agency. We specialize in crafting 
+    data-driven strategies, brand positioning, and creative campaigns that deliver measurable results. 
+    Let Catalyst Marketing ignite your success.
+    """,
+    """
+    Enjoy the art of relaxation with Haven Spa & Wellness. Our luxurious treatments, 
+    including massages, facials, and body therapies, rejuvenate your mind and body. 
+    Discover your sanctuary at Haven Spa & Wellness.
+    """,
+    """
+    Turn your ideas into reality with ProBuild Fabrication. We specialize in custom metalwork, 
+    welding, and industrial design solutions for businesses and individuals. At ProBuild Fabrication, 
+    your imagination is our blueprint.
+    """,
+    """
+    Revolutionize your pet care routine with HappyPaws Pet Supplies. From nutritious food to 
+    interactive toys, we offer everything you need to keep your furry friends healthy and happy. 
+    Shop HappyPaws for quality you can trust.
+    """,
+    """
+    Step into the future of technology with Visionary AI Labs. We develop innovative AI solutions 
+    for industries ranging from healthcare to finance, transforming how businesses operate. 
+    Partner with Visionary AI Labs to embrace the power of artificial intelligence.
+    """,
+    """
+    Elevate your events with Elite Catering Co. Our expert chefs and planners deliver culinary 
+    excellence and seamless service for weddings, corporate functions, and private celebrations. 
+    Trust Elite Catering Co. to make your event unforgettable.
+    """,
+    """
+    Reconnect with nature at Serenity Eco Retreats. Our eco-friendly accommodations and immersive 
+    activities provide the perfect escape from the hustle of everyday life. Discover peace and 
+    adventure at Serenity Eco Retreats.
+    """,
+    """
+    Illuminate your path with Solara Energy Solutions. We provide cutting-edge solar technology, 
+    energy storage systems, and installation services for homes and businesses. Go green and save 
+    with Solara Energy Solutions.
+    """,
+    """
+    Simplify your finances with ClearPath Accounting. Our team of experienced professionals offers 
+    bookkeeping, tax preparation, and financial planning services tailored to your needs. Let 
+    ClearPath Accounting guide your journey to financial success.
+    """,
+    """
+    Create unforgettable stories with Stellar Publishing House. From editing to design, 
+    we provide comprehensive services to bring your manuscripts to life. Join the ranks of 
+    published authors with Stellar Publishing House.
+    """,
+    """
+    Achieve academic excellence with ProStudy Tutoring Services. Our expert tutors specialize in 
+    math, science, language, and test preparation, helping students reach their full potential. 
+    At ProStudy, we empower learners to succeed.
+    """,
+    """
+    Redefine convenience with GoGreen Delivery. We provide fast, eco-friendly delivery services 
+    for groceries, household essentials, and more. Experience sustainability and speed with 
+    GoGreen Delivery.
+    """,
+    """
+    Boost your brand with Impact Visual Media. From photography to videography, we create 
+    compelling visual content that captures your story. Partner with Impact Visual Media to 
+    make a lasting impression.
+    """,
+    """
+    Design your future with Infinity Architecture. Our innovative approach combines functionality 
+    with aesthetic excellence to create spaces that inspire. Whether it's residential or commercial, 
+    Infinity Architecture builds your vision.
+    """,
+    """
+    Protect your property with SecureTech Solutions. We offer advanced security systems, 
+    including CCTV, access control, and alarm monitoring, for homes and businesses. Rely 
+    on SecureTech Solutions for peace of mind.
+    """,
+    """
+    Experience the ultimate in style and comfort with LuxeRide Auto. Our fleet of luxury 
+    vehicles, chauffeur services, and custom car modifications redefine the driving experience. 
+    Elevate your journey with LuxeRide Auto.
+    """,
+    """
+    Empower your creativity with CreateSpace Studio. We offer flexible workspaces, professional 
+    equipment, and workshops for artists, designers, and innovators. Bring your ideas to life 
+    at CreateSpace Studio.
+    """,
+    """
+    Master the art of storytelling with Narrative Pro Writing Services. From business copywriting 
+    to creative ghostwriting, our experts craft compelling content that resonates. Trust Narrative 
+    Pro to bring your message to life.
+    """,
+    """
+    Transform your events with Aurora Lighting Design. We specialize in theatrical lighting, 
+    stage effects, and architectural illumination to create unforgettable experiences. Let 
+    Aurora Lighting Design light up your world.
+    """,
+    """
+    Enhance your outdoor adventures with Summit Climbing Gear. Our premium equipment, including 
+    ropes, harnesses, and carabiners, is designed for safety and performance. Conquer new heights 
+    with Summit Climbing Gear.
+    """,
+    """
+    Build lasting memories with Keepsake Custom Crafts. We create personalized gifts, 
+    home decor, and keepsakes that celebrate life’s special moments. Treasure the little 
+    things with Keepsake Custom Crafts.
+    """,
+    """
+    Discover your rhythm with Harmony Music Academy. Our lessons, workshops, and group 
+    classes are tailored to musicians of all levels. Whether you’re picking up an instrument 
+    for the first time or mastering your craft, Harmony Music Academy inspires greatness.
+    """,
+    """
+    Innovate with Velocity Tech Solutions. We provide businesses with IT consulting, 
+    hardware solutions, and cloud services to stay ahead in a competitive market. 
+    Accelerate your success with Velocity Tech Solutions.
+    """,
+    """
+    Refresh your mornings with Sunrise Roasters. Our expertly crafted coffee blends and 
+    single-origin selections bring the world’s best beans to your cup. Start your day 
+    with the rich, bold flavor of Sunrise Roasters.
+    """,
+    """
+    Simplify your wardrobe with Essential Threads Co. Our timeless basics and versatile 
+    apparel are designed for everyday comfort and style. Elevate your essentials with 
+    Essential Threads Co.
+    """,
+    """
+    Get back in motion with FlexCare Physical Therapy. Our expert therapists provide 
+    personalized treatment plans for injury recovery, pain management, and mobility 
+    improvement. Discover a better quality of life with FlexCare.
+    """ 
 ]
