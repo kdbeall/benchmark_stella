@@ -24,7 +24,9 @@ end_time = time.time()
 # Calculate time per embedding
 total_time = end_time - start_time
 time_per_embedding = total_time / len(business_texts)
+time_per_embedding_ms = time_per_embedding * 1000
 
 # Output results
 print(f"Total embedding time: {total_time:.4f} seconds")
 print(f"Time per embedding: {time_per_embedding:.4f} seconds")
+print(f"Time per embedding: {time_per_embedding_ms:.2f} milliseconds")
